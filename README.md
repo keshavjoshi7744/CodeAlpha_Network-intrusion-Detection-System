@@ -1,2 +1,2 @@
 # CodeAlpha_Network-intrusion-Detection-System
-A Network Intrusion Detection System (NIDS).
+Developed a Network Intrusion Detection System (NIDS) on Windows using Snort or Suricata, including configuration and alert setup.
